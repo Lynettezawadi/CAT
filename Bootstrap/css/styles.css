@@ -1,0 +1,96 @@
+.x
+{
+    background-image: url("../../Resouces/ocean.png");
+    height: 350px;
+}
+.m
+{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+.y
+{
+    background-color: #e1fffa;
+    height: 150px;
+    text-align: center;
+    padding-top: 80px;
+}
+.g
+{
+    text-align: center;
+}
+.z
+{
+    background-color: #d6d8db;
+    height: 130px;
+    padding-top: 50px;
+}
+.p,.s,.t
+{
+    background-color: white;
+    font-weight: bold;
+}
+.t:hover
+{
+    background-color: #b7f8ff;
+}
+.s:hover
+{
+    background-color: #b7f8ff;
+}
+.p:hover
+{
+    background-color: #b7f8ff;
+}
+
+.k
+{
+    height: 400px;
+}
+li
+{
+    list-style: none;
+}
+.i
+{
+    text-align: center;
+}
+.k
+{
+    margin-left: 10px;
+}
+.a
+{
+    border-radius: 50%;
+    height: 100px;
+}
+.l
+{
+    padding-top: 100px;
+}
+.pr
+{
+    background-color: maroon;
+}
+.lyn
+{
+    height: 500px;
+}
+.lyne
+{
+    padding-top: 80px;
+    text-align: center;
+    margin-right: 30px;
+}
+b
+{
+    color: #ff5040;
+}
+.mo
+{
+    color: white;
+}
